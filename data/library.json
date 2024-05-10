@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "ObjectId generated for a User referencing an author",
+    "publishDate": "2022-01-01T00:00:00.000Z",
+    "genre": "action"  
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "ObjectId generated for a User referencing roanmance author",  
+    "publishDate": "2022-01-01T00:00:00.000Z",
+    "genre": "romance"
+  },
+  {
+    "title": "Attack on Titan", 
+    "author": "ObjectId generated for a User referencing an author", 
+    "publishDate": "2022-01-01T00:00:00.000Z",
+    "genre": "manga"
+  }
+]
